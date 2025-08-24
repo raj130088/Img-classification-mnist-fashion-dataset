@@ -1,0 +1,38 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs & outputs
+*.log
+*.out
+*.tmp
+
+# Data & model artifacts (optional, comment out if you want to keep)
+*.h5
+*.hdf5
+*.ckpt
+*.npz
+*.npy
+
+# OS files
+.DS_Store
+Thumbs.db
